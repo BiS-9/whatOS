@@ -9,7 +9,7 @@
 # Script     : whatOS.sh
 # Description: Use ping command to get the OS name
 # Version    : 0.1
-# Author     : Bi$
+# Author     : Bi$ https://github.com/BiS-9
 # Date       : 2021-11-11
 # License    : GNU/GPL v3.0
 #---------------------------------------------------------------------------------
