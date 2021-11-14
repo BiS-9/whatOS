@@ -1,6 +1,9 @@
 # whatOS
 Use ping command to get the OS name.
 
+## How to use?
+```./whatOS.sh + ipAddress or ./PATH/whatOS.sh + ipAddress```
+
 ## Author
 [Bi$](https://github.com/BiS-9)
 
