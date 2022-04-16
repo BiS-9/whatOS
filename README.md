@@ -4,7 +4,7 @@ Use ping command to get the OS name.
 ## How to use?
 ```./whatOS.sh + ipAddress or ./PATH/whatOS.sh + ipAddress```
 
-![whatOS.sh](https://github.com/BiS-9/whatOS/blob/main/whatOS.png)
+![whatOS.sh]()
 
 ## Author
 [Bi$](https://github.com/BiS-9)
